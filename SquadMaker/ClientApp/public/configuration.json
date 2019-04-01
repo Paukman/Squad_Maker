@@ -1,0 +1,21 @@
+{
+    "webapi_endpoint": "https://todoapi20190325124610.azurewebsites.net/api/",
+    "columnDefs": [
+        {
+            "headerName": "Name",
+            "field": "name"
+        },
+        {
+            "headerName": "Skating",
+            "field": "skating"
+        },
+        {
+            "headerName": "Shooting",
+            "field": "shooting"
+        },
+        {
+            "headerName": "Checking",
+            "field": "checking"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+C:\Source\SquadMakerAlgorithm\bin\Release\netcoreapp2.2\SquadMakerAlgorithm.deps.json
+C:\Source\SquadMakerAlgorithm\bin\Release\netcoreapp2.2\SquadMakerAlgorithm.dll
+C:\Source\SquadMakerAlgorithm\bin\Release\netcoreapp2.2\SquadMakerAlgorithm.pdb
+C:\Source\SquadMakerAlgorithm\obj\Release\netcoreapp2.2\SquadMakerAlgorithm.csproj.CoreCompileInputs.cache
+C:\Source\SquadMakerAlgorithm\obj\Release\netcoreapp2.2\SquadMakerAlgorithm.AssemblyInfoInputs.cache
+C:\Source\SquadMakerAlgorithm\obj\Release\netcoreapp2.2\SquadMakerAlgorithm.AssemblyInfo.cs
+C:\Source\SquadMakerAlgorithm\obj\Release\netcoreapp2.2\SquadMakerAlgorithm.dll
+C:\Source\SquadMakerAlgorithm\obj\Release\netcoreapp2.2\SquadMakerAlgorithm.pdb
+c:\source\SquadMaker-master\SquadMakerAlgorithm\bin\Release\netcoreapp2.2\SquadMakerAlgorithm.deps.json
+c:\source\SquadMaker-master\SquadMakerAlgorithm\bin\Release\netcoreapp2.2\SquadMakerAlgorithm.dll
+c:\source\SquadMaker-master\SquadMakerAlgorithm\bin\Release\netcoreapp2.2\SquadMakerAlgorithm.pdb
+c:\source\SquadMaker-master\SquadMakerAlgorithm\obj\Release\netcoreapp2.2\SquadMakerAlgorithm.csproj.CoreCompileInputs.cache
+c:\source\SquadMaker-master\SquadMakerAlgorithm\obj\Release\netcoreapp2.2\SquadMakerAlgorithm.AssemblyInfoInputs.cache
+c:\source\SquadMaker-master\SquadMakerAlgorithm\obj\Release\netcoreapp2.2\SquadMakerAlgorithm.AssemblyInfo.cs
+c:\source\SquadMaker-master\SquadMakerAlgorithm\obj\Release\netcoreapp2.2\SquadMakerAlgorithm.dll
+c:\source\SquadMaker-master\SquadMakerAlgorithm\obj\Release\netcoreapp2.2\SquadMakerAlgorithm.pdb
